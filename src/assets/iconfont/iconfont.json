@@ -1,0 +1,107 @@
+{
+  "id": "1487509",
+  "name": "bilibili",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145459",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "287175",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "695512",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1245577",
+      "name": "换一换",
+      "font_class": "huanyihuan",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "1629916",
+      "name": "爱心",
+      "font_class": "icon-test",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "2076319",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "2076425",
+      "name": "历史行程",
+      "font_class": "lishihangcheng",
+      "unicode": "e8d5",
+      "unicode_decimal": 59605
+    },
+    {
+      "icon_id": "4165947",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4251709",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6006634",
+      "name": "金牌",
+      "font_class": "jinpai",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "6170504",
+      "name": "评论",
+      "font_class": "pinglun1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6548541",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8507560",
+      "name": "排行榜",
+      "font_class": "_huabanfuben",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "9567587",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

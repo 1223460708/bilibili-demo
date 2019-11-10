@@ -1,0 +1,402 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "region": [
+            {
+                "tid": 13,
+                "reid": 0,
+                "name": "番剧",
+                "logo": "http://i0.hdslb.com/bfs/archive/6f629bd0dcd71d7b9911803f8e4f94fd0e5b4bfd.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/bangumi"
+            },
+            {
+                "tid": 167,
+                "reid": 0,
+                "name": "国创",
+                "logo": "http://i0.hdslb.com/bfs/archive/1586ec926eac1ea876cb74d32df51394d8e72341.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/domestic"
+            },
+            {
+                "tid": 65545,
+                "reid": 0,
+                "name": "放映厅",
+                "logo": "http://i0.hdslb.com/bfs/archive/3dfba664353bb2349917eaf81b60db34b2d4c61a.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/cinema"
+            },
+            {
+                "tid": 177,
+                "reid": 0,
+                "name": "纪录片",
+                "logo": "http://i0.hdslb.com/bfs/archive/884a644c6bb4b8bb16f9746ef35fbaba396e0b8c.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/cinema/doc"
+            },
+            {
+                "tid": 65555,
+                "reid": 0,
+                "name": "漫画",
+                "logo": "http://i0.hdslb.com/bfs/archive/d260e72fb98251dabe4f64858f65cc697a71587e.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://comic/home?from=manga_channel"
+            },
+            {
+                "tid": 65541,
+                "reid": 0,
+                "name": "专栏",
+                "logo": "http://i0.hdslb.com/bfs/archive/a0c0e133644c47d6263cf24cf8364e2106c102c3.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://article/category/"
+            },
+            {
+                "tid": 65537,
+                "reid": 0,
+                "name": "直播",
+                "logo": "http://i0.hdslb.com/bfs/archive/1b0ac7eafd51b03a0dc5b2390eec2fbffb25adf7.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://home/?tab=直播"
+            },
+            {
+                "tid": 65560,
+                "reid": 0,
+                "name": "课堂",
+                "logo": "http://i0.hdslb.com/bfs/archive/7400e63e28ab9933a3fa8adb3bd63e3a20911641.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "https://m.bilibili.com/cheese/home?navhide=1"
+            },
+            {
+                "tid": 1,
+                "reid": 0,
+                "name": "动画",
+                "logo": "http://i0.hdslb.com/bfs/archive/9b3bb8cfc8d87809ffa409bc65def8d8c3eaf72b.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/1"
+            },
+            {
+                "tid": 3,
+                "reid": 0,
+                "name": "音乐",
+                "logo": "http://i0.hdslb.com/bfs/archive/3a99c51d00038ced3989686b6f3c49d01aa34207.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/3"
+            },
+            {
+                "tid": 129,
+                "reid": 0,
+                "name": "舞蹈",
+                "logo": "http://i0.hdslb.com/bfs/archive/4769a6faa9ccfde4a029eca36b979bac486afd14.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/129"
+            },
+            {
+                "tid": 4,
+                "reid": 0,
+                "name": "游戏",
+                "logo": "http://i0.hdslb.com/bfs/archive/9c88ce1adaecf31e27121bdbb5a29824d655d0a6.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/4"
+            },
+            {
+                "tid": 36,
+                "reid": 0,
+                "name": "科技",
+                "logo": "http://i0.hdslb.com/bfs/archive/4a687a86b49feea68d423fd1bf2c461acfe59b70.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/36"
+            },
+            {
+                "tid": 188,
+                "reid": 0,
+                "name": "数码",
+                "logo": "http://i0.hdslb.com/bfs/archive/388fa8e10e36b4815723d72a387584c3dfa04f28.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/188"
+            },
+            {
+                "tid": 160,
+                "reid": 0,
+                "name": "生活",
+                "logo": "http://i0.hdslb.com/bfs/archive/50731fc4b9ec487ef2e3861a97e0eb4671b7bcef.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/160"
+            },
+            {
+                "tid": 65559,
+                "reid": 0,
+                "name": "VLOG",
+                "logo": "http://i0.hdslb.com/bfs/archive/c794e8220a8cbe3d83b83e76e753c57df67b036a.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "https://www.bilibili.com/h5/vlog?from=2"
+            },
+            {
+                "tid": 119,
+                "reid": 0,
+                "name": "鬼畜",
+                "logo": "http://i0.hdslb.com/bfs/archive/de50290b11c65108eb70766fa887032b948d2e4b.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/119"
+            },
+            {
+                "tid": 155,
+                "reid": 0,
+                "name": "时尚",
+                "logo": "http://i0.hdslb.com/bfs/archive/1842562be5ded346d79312b24fafedbc1d78c8e2.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/155"
+            },
+            {
+                "tid": 165,
+                "reid": 0,
+                "name": "广告",
+                "logo": "http://i0.hdslb.com/bfs/archive/01d9bd2c43c2ff4526a819081b89176a651ae80b.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://advertise/home?tid=165&name=广告"
+            },
+            {
+                "tid": 5,
+                "reid": 0,
+                "name": "娱乐",
+                "logo": "http://i0.hdslb.com/bfs/archive/a9bcb4cb7e216c2ea28ba3dc10acd2d210f739bd.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/5"
+            },
+            {
+                "tid": 181,
+                "reid": 0,
+                "name": "影视",
+                "logo": "http://i0.hdslb.com/bfs/archive/f90bb1ef59630ad9765486c6088a4944b96e88a3.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://region/181"
+            },
+            {
+                "tid": 23,
+                "reid": 0,
+                "name": "电影",
+                "logo": "http://i0.hdslb.com/bfs/archive/137edde9deb7dfcdf610ed2d1ec63bae6ef3ba0a.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/cinema/movie"
+            },
+            {
+                "tid": 11,
+                "reid": 0,
+                "name": "电视剧",
+                "logo": "http://i0.hdslb.com/bfs/archive/30779a6904875754762e666b7076014528ef4834.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pgc/cinema/tv"
+            },
+            {
+                "tid": 65542,
+                "reid": 0,
+                "name": "小视频",
+                "logo": "http://i0.hdslb.com/bfs/archive/b5f7ca4d42243f7c14600b3ab4a44056bca96d9f.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://clip/cliparea"
+            },
+            {
+                "tid": 65544,
+                "reid": 0,
+                "name": "相簿",
+                "logo": "http://i0.hdslb.com/bfs/archive/8d7a9c55c14392e5626b15de4e9e425c8c6854c3.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://pictureshow/index"
+            },
+            {
+                "tid": 65546,
+                "reid": 0,
+                "name": "会员购",
+                "logo": "http://i0.hdslb.com/bfs/archive/389e0309673355d865e4a6c49cbb5e1cfcd35a04.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://mall/home?msource=category"
+            },
+            {
+                "tid": 65554,
+                "reid": 0,
+                "name": "话题中心",
+                "logo": "http://i0.hdslb.com/bfs/archive/d49764218a656c2e568e3acade609b74dc256b4a.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://topic/"
+            },
+            {
+                "tid": 65552,
+                "reid": 0,
+                "name": "全区排行榜",
+                "logo": "http://i0.hdslb.com/bfs/archive/34f46c749054b1c3c157b0c1c09a5ef2b3539204.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://rank/"
+            },
+            {
+                "tid": 65556,
+                "reid": 0,
+                "name": "原创排行榜",
+                "logo": "http://i0.hdslb.com/bfs/archive/5f232dbcb590e81dbd3dab6d2c906cff70547841.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://rank?type=original"
+            },
+            {
+                "tid": 65553,
+                "reid": 0,
+                "name": "活动中心",
+                "logo": "http://i0.hdslb.com/bfs/archive/3e2e6d338aa8156dc6f63c5dc8c75ed298c5cc9a.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "bilibili://activity_center/"
+            },
+            {
+                "tid": 65551,
+                "reid": 0,
+                "name": "小黑屋",
+                "logo": "http://i0.hdslb.com/bfs/archive/ed4f676e8c1f1029b8e37e2f567875b682e632ce.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "https://www.bilibili.com/blackroom"
+            },
+            {
+                "tid": 65539,
+                "reid": 0,
+                "name": "游戏中心",
+                "logo": "http://i0.hdslb.com/bfs/archive/656df3124c81dd0e19bdc0a3e017091268b3db73.jpg",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://game_center?from=category"
+            },
+            {
+                "tid": 65550,
+                "reid": 0,
+                "name": "游戏赛事",
+                "logo": "http://i0.hdslb.com/bfs/archive/a93687a7f29da88ee375109389b0634412847bd1.png",
+                "goto": "",
+                "param": "",
+                "type": 0,
+                "uri": "https://www.bilibili.com/h5/game/home?navhide=1"
+            },
+            {
+                "tid": 65543,
+                "reid": 0,
+                "name": "音频",
+                "logo": "http://i0.hdslb.com/bfs/archive/85d6dddbdc9746fed91c65c2c3eb3a0a453eadaf.png",
+                "goto": "",
+                "param": "",
+                "type": 1,
+                "uri": "bilibili://music/home?from=category"
+            }
+        ],
+        "subscribe": {
+            "count": 0,
+            "items": [
+                {
+                    "id": 68,
+                    "name": "鬼畜",
+                    "cover": "http://i0.hdslb.com/bfs/tag/5f42290e9299eceb7dfce4b932b497d1255ea847.jpg",
+                    "uri": "bilibili://pegasus/channel/v2/68?tab=all&sort=hot",
+                    "goto": "channel",
+                    "param": "68",
+                    "button": {
+                        "text": "订阅"
+                    }
+                },
+                {
+                    "id": 2511282,
+                    "name": "vlog",
+                    "cover": "http://i0.hdslb.com/bfs/tag/ea51d78fa24f69bfff2d21a2e99f9fc4680a3871.png",
+                    "uri": "bilibili://pegasus/channel/v2/2511282?tab=all&sort=hot",
+                    "goto": "channel",
+                    "param": "2511282",
+                    "button": {
+                        "text": "订阅"
+                    }
+                },
+                {
+                    "id": 13160,
+                    "name": "学习",
+                    "cover": "http://i0.hdslb.com/bfs/tag/b534923f5b71b3a6d95c1f60476d21e695876faa.png",
+                    "uri": "bilibili://pegasus/channel/v2/13160?tab=all&sort=hot",
+                    "goto": "channel",
+                    "param": "13160",
+                    "button": {
+                        "text": "订阅"
+                    }
+                },
+                {
+                    "id": 9222,
+                    "name": "英雄联盟",
+                    "cover": "http://i0.hdslb.com/bfs/tag/72e3dc6aad2037ed8ff179e7f90c99eb519836df.jpg",
+                    "uri": "bilibili://pegasus/channel/v2/9222?tab=all&sort=hot",
+                    "goto": "channel",
+                    "param": "9222",
+                    "button": {
+                        "text": "订阅"
+                    }
+                }
+            ]
+        },
+        "new": {
+            "has_more": 0,
+            "offset": ""
+        }
+    }
+}

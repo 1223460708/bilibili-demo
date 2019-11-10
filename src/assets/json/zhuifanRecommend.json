@@ -1,0 +1,91 @@
+{
+	"code": 0,
+	"message": "success",
+	"result": {
+		"delay": [],
+		"follow": 0,
+		"follows": [{
+			"badge": "会员专享",
+			"badge_type": 0,
+			"cover": "http://i0.hdslb.com/bfs/bangumi/e86ca4521cbe8e860b83ccae74c7306272e8d95d.jpg",
+			"is_finish": 0,
+			"is_started": 1,
+			"new_ep": {
+				"cover": "http://i0.hdslb.com/bfs/archive/7eb89bdc4aded2ce84bcba618828877f123a124a.jpg",
+				"id": 284173,
+				"index_show": "更新至第006话"
+			},
+			"season_id": 22088,
+			"season_type": 4,
+			"title": "灵笼",
+			"total_count": 12,
+			"url": "https://www.bilibili.com/bangumi/play/ss22088"
+		}, {
+			"badge": "",
+			"badge_type": 0,
+			"cover": "http://i0.hdslb.com/bfs/bangumi/18f791db905a11168800660c849c9e514dafd703.jpg",
+			"is_finish": 0,
+			"is_started": 1,
+			"new_ep": {
+				"cover": "http://i0.hdslb.com/bfs/archive/eb9aeee459ebc9d84c4d9c68618e6efb9353b323.jpg",
+				"id": 281875,
+				"index_show": "更新至第28话"
+			},
+			"season_id": 1733,
+			"season_type": 4,
+			"title": "罗小黑战记",
+			"total_count": -1,
+			"url": "https://www.bilibili.com/bangumi/play/ss1733"
+		}, {
+			"badge": "会员抢先",
+			"badge_type": 0,
+			"cover": "http://i0.hdslb.com/bfs/bangumi/77bc7b5723a0e6b05104e1d50f1d1868a85f4607.jpg",
+			"is_finish": 0,
+			"is_started": 0,
+			"new_ep": {
+				"cover": "",
+				"id": 0,
+				"index_show": "即将开播"
+			},
+			"season_id": 5626,
+			"season_type": 4,
+			"title": "镇魂街 第二季",
+			"total_count": 1,
+			"url": "https://www.bilibili.com/bangumi/play/ss5626"
+		}, {
+			"badge": "会员抢先",
+			"badge_type": 0,
+			"cover": "http://i0.hdslb.com/bfs/bangumi/7203889dcc88b3efb9c94c933fa61851dba0c7a8.png",
+			"is_finish": 0,
+			"is_started": 1,
+			"new_ep": {
+				"cover": "http://i0.hdslb.com/bfs/archive/a205d22d48a86889ef353d2c118c4b4cf04ffc29.jpg",
+				"id": 285196,
+				"index_show": "更新至第5话"
+			},
+			"season_id": 28625,
+			"season_type": 1,
+			"title": "这个勇者明明超强却过分慎重",
+			"total_count": -1,
+			"url": "https://www.bilibili.com/bangumi/play/ss28625"
+		}, {
+			"badge": "会员抢先",
+			"badge_type": 0,
+			"cover": "http://i0.hdslb.com/bfs/bangumi/c7726435c492909d9a3c4a85c5b5cee93624eadf.png",
+			"is_finish": 0,
+			"is_started": 1,
+			"new_ep": {
+				"cover": "http://i0.hdslb.com/bfs/archive/84d67fcb6682e457150a29103cf88b8c225b172c.jpg",
+				"id": 276791,
+				"index_show": "更新至第19话"
+			},
+			"season_id": 27993,
+			"season_type": 1,
+			"title": "Ｄｒ．ＳＴＯＮＥ 石纪元",
+			"total_count": -1,
+			"url": "https://www.bilibili.com/bangumi/play/ss27993"
+		}],
+		"follows_type": 0,
+		"update": 0
+	}
+}
