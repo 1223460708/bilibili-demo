@@ -118,6 +118,9 @@ export default {
                 // background: violet;
                 border-radius: 50%;
             }
+            p {
+                font-size: .7rem;
+            }
         }
     }
     .bottom-text {

@@ -180,7 +180,7 @@ export default {
     }
     .main {
         position: relative;
-        top: 8.8rem;
+        top: 12.3rem;
         left: 0;
         padding-bottom: 2.8rem;
         ul {
@@ -224,8 +224,8 @@ export default {
                 text-align: center;
                 padding: .5rem 0;
                 img {
-                    width: 1.5rem;
-                    height: 1.5rem;
+                    width: 1.3rem;
+                    height: 1.3rem;
                 }
                 p {
                     font-size: .5rem;
