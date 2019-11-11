@@ -55,6 +55,13 @@
       "unicode_decimal": 59605
     },
     {
+      "icon_id": "2402025",
+      "name": "投票",
+      "font_class": "toupiao",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
       "icon_id": "4165947",
       "name": "邮件",
       "font_class": "youjian",
@@ -69,11 +76,25 @@
       "unicode_decimal": 58937
     },
     {
+      "icon_id": "5387843",
+      "name": "主题_调色盘_o",
+      "font_class": "zhuti_tiaosepan_o",
+      "unicode": "eb6e",
+      "unicode_decimal": 60270
+    },
+    {
       "icon_id": "6006634",
       "name": "金牌",
       "font_class": "jinpai",
       "unicode": "e68c",
       "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "6170293",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e608",
+      "unicode_decimal": 58888
     },
     {
       "icon_id": "6170504",
@@ -83,11 +104,25 @@
       "unicode_decimal": 58893
     },
     {
+      "icon_id": "6428138",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
       "icon_id": "6548541",
       "name": "评论",
       "font_class": "pinglun",
       "unicode": "e658",
       "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8504148",
+      "name": "设置",
+      "font_class": "xianxingtubiao_huabanfuben",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
     },
     {
       "icon_id": "8507560",

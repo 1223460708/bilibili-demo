@@ -29,6 +29,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-# bilibili-demo
-仿哔哩哔哩移动端

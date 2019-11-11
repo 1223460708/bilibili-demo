@@ -4,6 +4,7 @@ import router from "./router";
 import store from "./store";
 import './assets/iconfont/iconfont.css'
 import './style/common.scss'
+import './config/rem'
 import VueLazyload from 'vue-lazyload'
 
 Vue.use(VueLazyload)
