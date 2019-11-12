@@ -2,10 +2,10 @@
   <div class="home-container">
     <div class="search-top">
       <img src="../assets/logo.png" class="search-head">
-      <div class="search">
-        <i class="iconfont iconsousuo"></i>
-        <input type="text" name="" v-model="value">
-      </div>
+      <!-- <div class="search" @click="inputSearch">
+        
+      </div> -->
+      <van-search placeholder="请输入搜索关键词" v-model="value" class="vansearch" shape="round" @focus="searchFocus"/>
       <div class="search-top-right-icon">
         <i class="iconfont iconyouxi"></i>
         <i class="iconfont iconyoujian"></i>
@@ -76,13 +76,12 @@
 
 <script>
 import Vue from 'vue';
-import { Tab, Tabs,Popup } from 'vant';
+import { Tab, Tabs,Popup ,Search} from 'vant';
 import bus from '@/config/event.js'
 Vue.use(Tab).use(Tabs);
 Vue.use(Popup);
-
+Vue.use(Search);
 export default {
-  name: "home",
   components: {
     
   },
@@ -122,6 +121,12 @@ export default {
     cancelClick(){
       this.isShow = false
       bus.$emit("popmoreClose",false)
+    },
+    inputSearch() {
+      this.$router.push("/search")
+    },
+    searchFocus() {
+      this.$router.push("/search")
     }
   },
   watch: {
@@ -158,37 +163,29 @@ export default {
     align-items: center;
     background: #fff;
     padding-left: 10px;
+    justify-content: space-between;
     .search-head {
       width: 40px;
       height: 40px;
+      flex-grow: 0.1;
     }
-    .search {
-      height: 34px;
-      background-color: rgba(245, 245, 245, 1);
-      border-top-left-radius: 17px;
-      border-top-right-radius: 17px;
-      border-bottom-left-radius: 17px;
-      border-bottom-right-radius: 17px;
-      line-height: 34px;
-      margin-left: 10px;
-      input {
-        background-color: rgba(245, 245, 245, 0);
-        border: none;
-        margin-left: 10px;
-      }
-      i {
-        margin-left: 10px;
-        font-size: 18px;
-        color: rgba(205, 205, 205, 1);
-      }
+    .vansearch {
+      flex-grow: 0.7;
     }
+    // .search {
+    //   display: flex;
+    //   align-items: center;
+    //   // justify-content: space-between;
+    //   height: 34px;
+    //   background-color: rgba(245, 245, 245, 1);
+    //   border-radius: 17px;
+    //   line-height: 34px;
+    //   margin-left: 10px;
+    // }
     .search-top-right-icon {
-      position: absolute;
-      right: 0;
-      top: 50%;
+      flex-grow: 0.2;
       width: 100px;
       height: 70px;;
-      transform: translateY(-50%);
       line-height: 70px;
       text-align: center;
       i {

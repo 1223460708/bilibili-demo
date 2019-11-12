@@ -1,10 +1,11 @@
 <template>
     <div>
-        <van-tabbar v-model="active"
-        active-color="#07c160"
-        inactive-color="#000"
+        <van-tabbar v-model="active" 
+        active-color="#07c160" 
+        inactive-color="#000000"
         route
-        safe-area-inset-bottom>
+        safe-area-inset-bottom
+        @change="changess">
             <van-tabbar-item icon="wap-home-o" name="home" to="/home/live" replace>首页</van-tabbar-item>
             <van-tabbar-item icon="apps-o" name="channel" to="/channel" replace>频道</van-tabbar-item>
             <van-tabbar-item icon="aim" name="dynamic" to="/dynamic" replace>动态</van-tabbar-item>
@@ -22,6 +23,11 @@ export default {
     data() {
         return {
             active: "home"
+        }
+    },
+    methods: {
+        changess(va) {
+            console.log("22",va)
         }
     }
 }

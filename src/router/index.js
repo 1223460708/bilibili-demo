@@ -5,8 +5,8 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/',
-    redirect: '/home'
+    path: '',
+    redirect: '/home/live'
   },
   {
     path: "/home",
@@ -64,6 +64,12 @@ const routes = [
     name: "playvideo",
     component: ()=>import('../views/PlayVideo.vue')
   },
+  {
+    path: "/search",
+    name: "search",
+    component: ()=>import('../views/Search.vue')
+  },
+
 ];
 
 const router = new VueRouter({

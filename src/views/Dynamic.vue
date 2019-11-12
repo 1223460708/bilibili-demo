@@ -132,6 +132,7 @@ export default {
                     line-height: 44px;
                     span {
                         padding: 10px;
+                        font-size: 14px;
                     }
                 }
             }
@@ -198,6 +199,7 @@ export default {
                     span {
                         margin-left: 10px;
                         color: skyblue;
+                        font-size: 14px;
                     }
                 }
                 .bigImg {
