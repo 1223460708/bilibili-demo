@@ -141,12 +141,12 @@ export default {
                     width: 40px;
                     height: 40px;
                     border-radius: 50%;
-                    p {
-                        font-size: 12px;
-                        color: #444;
-                        margin-top: 6px;
-                        font-weight: 300;
-                    }
+                }
+                p {
+                    font-size: 12px;
+                    color: #444;
+                    margin-top: 6px;
+                    font-weight: 300;
                 }
             }
         }

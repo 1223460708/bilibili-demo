@@ -1,0 +1,556 @@
+{
+	"code": 0,
+	"message": null,
+	"data": {
+		"codeType": 1,
+		"codeMsg": "操作成功",
+		"vo": {
+			"isVersionV2": true,
+			"feedsABTest": 1,
+			"tabColumnNums": 4,
+			"banners": [{
+				"hasWished": 0,
+				"bannerId": 3282,
+				"name": "欧气出票机",
+				"pic": "//i1.hdslb.com/bfs/openplatform/201911/1242x3201573461377985.jpeg",
+				"url": "https://www.bilibili.com/blackboard/activity-nxRdWtjN.html?msource=mall_banner&from=banner",
+				"targetUser": 0
+			}, {
+				"hasWished": 0,
+				"bannerId": 3288,
+				"name": "哈利波特",
+				"pic": "//i2.hdslb.com/bfs/openplatform/201911/11573471114244.jpeg",
+				"url": "https://www.bilibili.com/blackboard/mall/activity-1mTQZjlJ.html?msource=mall_banner&from=banner",
+				"targetUser": 0
+			}, {
+				"hasWished": 0,
+				"bannerId": 3291,
+				"name": "刺客伍六七",
+				"pic": "//i0.hdslb.com/bfs/openplatform/201911/1242x3201573561858963.jpeg",
+				"url": "https://mall.bilibili.com/detail.html?noTitleBar=1&msource=mall_cike567_mallbanner#itemsId=10016293&from=banner",
+				"targetUser": 0
+			}, {
+				"hasWished": 0,
+				"bannerId": 3287,
+				"name": "内容征稿",
+				"pic": "//i1.hdslb.com/bfs/openplatform/201911/1242nei15734708886901573561531045.jpeg",
+				"url": "https://mall.bilibili.com/blackboard/activity-XfZ9muB_X.html?msource=mall_banner&from=banner",
+				"targetUser": 0
+			}, {
+				"hasWished": 0,
+				"bannerId": 2108,
+				"name": "会员购新客项目",
+				"pic": "//i1.hdslb.com/bfs/openplatform/201908/124215633454569551565001832910.jpeg",
+				"url": "https://www.bilibili.com/blackboard/activity-M2fDuU8qx.html?msource=mallbanner_x&from=banner",
+				"targetUser": 1
+			}],
+			"tabs": [{
+				"name": "手办",
+				"jumpUrl": "https://mall.bilibili.com/list.html?noTitleBar=1&from=category_sb&category=1_107&scene=figure",
+				"jumpUrlH5": "https://mall.bilibili.com/list.html?noTitleBar=1&from=category_sb&category=1_107&scene=figure",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/9d/f4/9df4c58eeb4d4ae8f739b1cc153939b9.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/7c/d4/7cd4feb43c382798f36f372fc0c5234e.png",
+				"index": 283
+			}, {
+				"name": "周边",
+				"jumpUrl": "http://mall.bilibili.com/list.html?noTitleBar=1&from=category_zb&category=1_109&scene=zhoubian",
+				"jumpUrlH5": "http://mall.bilibili.com/list.html?noTitleBar=1&from=category_zb&category=1_109&scene=zhoubian",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/c6/c9/c6c97c83e3cecec2a4b09c9dbb6bb003.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/5f/5d/5f5dc19f17f5660063d11d5714317919.png",
+				"index": 284
+			}, {
+				"name": "漫展",
+				"jumpUrl": "https://show.bilibili.com/m/platform/home.html?noTitleBar=1&from=category_mz&projectType=%e5%b1%95%e8%a7%88&ver=2",
+				"jumpUrlH5": "https://show.bilibili.com/m/platform/home.html?noTitleBar=1&from=category_mz&projectType=%e5%b1%95%e8%a7%88&ver=2",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/b9/cc/b9cc442a5932c778412fb55441aa39a5.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/8b/8d/8b8de68529cded044a8cacb3ea913972.png",
+				"index": 285
+			}, {
+				"name": "测欧气",
+				"jumpUrl": "bilibili://mall/blind/box?from=category_mls",
+				"jumpUrlH5": "bilibili://mall/blind/box?from=category_mls",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/f4/69/f469d055b9d17d6ce3a811c4c1abc973.gif",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/87/dc/87dc22addf9207ce16ca79c3773f5c8a.gif",
+				"index": 286
+			}, {
+				"name": "模型",
+				"jumpUrl": "http://mall.bilibili.com/modellist.html?noTitleBar=1&pageId=102&pageStatus=2#noReffer=true",
+				"jumpUrlH5": "http://mall.bilibili.com/list.html?noTitleBar=1&from=category_mx&category=1_108",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/39/53/3953b3f15223d013717a3f12dce60ba9.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/9d/c5/9dc570f83d3fd7b499061a18a304b5bd.png",
+				"index": 287
+			}, {
+				"name": "潮玩扭蛋",
+				"jumpUrl": "http://mall.bilibili.com/list.html?noTitleBar=1&from=category_cwnd&category=2_391&scene=figure",
+				"jumpUrlH5": "http://mall.bilibili.com/list.html?noTitleBar=1&from=category_cwnd&category=2_391&scene=figure",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/8b/f3/8bf3db73487e108dfc3f7decf193a477.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/38/04/3804f7c58cf9e8364aba5c837c197834.png",
+				"index": 288
+			}, {
+				"name": "演出",
+				"jumpUrl": "https://show.bilibili.com/m/platform/home.html?noTitleBar=1&from=category_yc&projectType=%e6%bc%94%e5%87%ba&ver=2",
+				"jumpUrlH5": "https://show.bilibili.com/m/platform/home.html?noTitleBar=1&from=category_yc&projectType=%e6%bc%94%e5%87%ba&ver=2",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/bb/d5/bbd54e9e844dc2102dbaa3f398291f04.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/34/6a/346a2b328db839caa8006ccfc9818618.png",
+				"index": 289
+			}, {
+				"name": "全部分类",
+				"jumpUrl": "http://mall.bilibili.com/category.html?noTitleBar=1&from=homepage_category",
+				"jumpUrlH5": "http://mall.bilibili.com/category.html?noTitleBar=1&from=homepage_category",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/c8/ee/c8eeefc2f3624e107cac0c34bab22648.png",
+				"nightImageUrl": "//i0.hdslb.com/bfs/mall/mall/f7/28/f72849593ebcf12756ee4890d8e50839.png",
+				"index": 290
+			}],
+			"blocks": [{
+				"jumpUrl": "https://mall.bilibili.com/newdate.html?noTitleBar=1&from=homepage_calendar_new&page=new",
+				"jumpUrlH5": "https://mall.bilibili.com/newdate.html?noTitleBar=1&from=homepage_calendar_new&page=new",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/5a/d7/5ad7f85ead383153cde69bfdf08dadca.png",
+				"index": 1
+			}, {
+				"jumpUrl": "https://miniapp.bilibili.com/applet/bilinternal9909445916db87de",
+				"jumpUrlH5": "https://miniapp.bilibili.com/applet/bilinternal9909445916db87de",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/e1/c5/e1c5168565d93ba66353f54dd0f4c7b1.gif",
+				"index": 2
+			}, {
+				"jumpUrl": "https://mall.bilibili.com/rank.html?from=board&noTitleBar=1&loadingShow=1",
+				"jumpUrlH5": "https://mall.bilibili.com/rank.html?from=board&noTitleBar=1&loadingShow=1",
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/e4/10/e4100b222b62631b7d83f4ef80f98d37.png",
+				"index": 3
+			}],
+			"notice": {
+				"jumpUrl": "",
+				"jumpUrlH5": "",
+				"title": "双11订单72小时内发货，14日恢复正常",
+				"type": 0
+			},
+			"noticeList": [{
+				"jumpUrl": "",
+				"jumpUrlH5": "",
+				"title": "双11订单72小时内发货，14日恢复正常",
+				"type": 0
+			}],
+			"feedTabs": [{
+				"feedType": 0,
+				"name": "推荐"
+			}, {
+				"feedType": 1,
+				"name": "商品"
+			}, {
+				"feedType": 3,
+				"name": "美图"
+			}, {
+				"feedType": 2,
+				"name": "情报"
+			}],
+			"feeds": {
+				"pageNum": 1,
+				"total": 12,
+				"count": 12,
+				"feedType": 0,
+				"list": [{
+					"id": "items_10006295",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "哔哩哔哩 2233娘哥特系列加绒套头卫衣 周边",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/5b/6e/5b6e06adb3ffa96d9fdd3938b8fa886d.png", "https://i0.hdslb.com/bfs/mall/mall/40/a2/40a205c4cedc7416058b8cbe7f396f05.jpg", "https://i0.hdslb.com/bfs/mall/mall/d4/e4/d4e4bd5d513af10d4cd57c672724d8f2.jpg", "https://i0.hdslb.com/bfs/mall/mall/00/29/0029449105ac05f5d92f80d7e417bc90.jpg", "https://i0.hdslb.com/bfs/mall/mall/da/ff/daff86a978e4a17a8e8b55f4e3738784.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10006295"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10006295%26goFrom%3Dna",
+					"price": [233.0, 233.0],
+					"priceDesc": ["233"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"0\"}",
+					"itemsId": 10006295,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 2928,
+					"brief": "",
+					"subStatus": 11,
+					"ipRightName": "22娘,哔哩哔哩,哔哩哔哩,33娘",
+					"ipRightId": 3723,
+					"brandName": "哔哩哔哩",
+					"brandId": 99
+				}, {
+					"id": "items_10009576",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "万代 RG 强袭自由高达 拼装模型 【机动战士高达SEED DESTINY】",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/21/f2/21f21a857b815994712546b6b287fe9b.png", "https://i0.hdslb.com/bfs/mall/mall/08/74/0874bc96f451c5bc4eddee6dc1956e89.jpg", "https://i0.hdslb.com/bfs/mall/mall/48/04/48041ac3323cba3ffed2ff7aa717ff71.jpg", "https://i0.hdslb.com/bfs/mall/mall/4c/d8/4cd8d76aefc52ee9464a4142ac9c5323.jpg", "https://i0.hdslb.com/bfs/mall/mall/25/63/256317b21853e91bfed6e738191b3269.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10009576"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10009576%26goFrom%3Dna",
+					"price": [149.0, 149.0],
+					"priceDesc": ["149"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"1\"}",
+					"itemsId": 10009576,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 10903,
+					"brief": "基拉·大和的最终座驾！（本商品不包含支架）\n",
+					"subStatus": 12,
+					"ipRightName": "强袭自由高达 ,机动战士高达SEED DESTINY,高达系列",
+					"ipRightId": 6791,
+					"brandName": "万代",
+					"brandId": 1
+				}, {
+					"id": "items_10006298",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "哔哩哔哩 2233娘哥特系列口罩 周边",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/6f/c7/6fc708273ee2d830e3e47e7d1e04440a.png", "https://i0.hdslb.com/bfs/mall/mall/1a/e4/1ae497740fb46dd65cd6103142ab914d.jpg", "https://i0.hdslb.com/bfs/mall/mall/d1/96/d196862fb5e446f81513c44d81948eaa.jpg", "https://i0.hdslb.com/bfs/mall/mall/71/ca/71ca2cdd14ff8c5fb1269ae0d0bab484.jpg", "https://i0.hdslb.com/bfs/mall/mall/ca/e0/cae05cb8b80b967e2a7f3a503544175d.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10006298"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10006298%26goFrom%3Dna",
+					"price": [29.0, 29.0],
+					"priceDesc": ["29"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"2\"}",
+					"itemsId": 10006298,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 3679,
+					"brief": "",
+					"subStatus": 11,
+					"ipRightName": "22娘,哔哩哔哩,哔哩哔哩,33娘",
+					"ipRightId": 3723,
+					"brandName": "哔哩哔哩",
+					"brandId": 99
+				}, {
+					"id": "ticket_21282",
+					"type": "ticketproject",
+					"tagName": "展演",
+					"title": "永康·卡萌游戏同人动漫祭",
+					"templateId": 5,
+					"imageUrls": ["//i0.hdslb.com/bfs/openplatform/201910/U9EdmcWf1570853019056.jpeg"],
+					"jumpUrls": ["//show.bilibili.com/h5/detail.html?id=21282&from=card_show&noTitleBar=1"],
+					"jumpUrlForNa": "https://show.bilibili.com/h5/detail.html?id=21282&from=card_show&noTitleBar=1&goFrom=na",
+					"price": [40.0, 80.0],
+					"priceDesc": ["40", "80"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"\",\"Score\":\"37\",\"Index\":\"3\"}",
+					"projectId": 21282,
+					"provinceName": "金华市",
+					"venueName": "四季风尚酒店",
+					"want": "40人想去",
+					"startTime": 1575162000000,
+					"endTime": 1575190800000
+				}, {
+					"id": "items_10009936",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "万代 海贼王 海盗船收藏集—伟大的船之万里阳光号 FILM GOLD 公开纪念色Ver. 拼装模型",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/00/30/0030aa4f76129b438c50b08f894270ff.png", "https://i0.hdslb.com/bfs/mall/mall/b8/c3/b8c35f94fa99386370003dc14060a8e8.jpg", "https://i0.hdslb.com/bfs/mall/mall/f0/5b/f05bd2c2cb8ec88c0e2406de32e30600.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10009936"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10009936%26goFrom%3Dna",
+					"price": [109.0, 109.0],
+					"priceDesc": ["109"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"4\"}",
+					"itemsId": 10009936,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 2353,
+					"brief": "本商品包含角色板、海面特效以及底座",
+					"subStatus": 11,
+					"ipRightName": "蒙奇·D·路飞 ,海贼王,海贼王,海贼王,海贼王 FILM Z,ワンピース 大海賊闘技場",
+					"ipRightId": 5685,
+					"brandName": "万代",
+					"brandId": 1
+				}, {
+					"id": "ip_3000458",
+					"type": "ip",
+					"tagName": "IP",
+					"title": "高达系列",
+					"templateId": 10,
+					"imageUrls": ["//i0.hdslb.com/bfs/test/mall/d8/26/d826953ba022bf49d3092d22c9a9f0f4.jpg"],
+					"jumpUrlForNa": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"\",\"Score\":\"301715\",\"Index\":\"5\"}",
+					"ipId": 3000458,
+					"itemsTotalCount": 406,
+					"likeTotalCount": 301715,
+					"ipItemsList": [{
+						"itemsId": 10016620,
+						"title": "万代 PG 独角兽高达2号机报丧女妖 拼装模型 【机动战士高达UC】",
+						"imgUrl": "//i0.hdslb.com/bfs/mall/mall/7c/76/7c76170aff9b854e71ef9ea0a1f064c7.png",
+						"jumpUrl": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458"
+					}, {
+						"itemsId": 10016619,
+						"title": "万代 PG 强袭高达 拼装模型 【机动战士高达SEED】",
+						"imgUrl": "//i0.hdslb.com/bfs/mall/mall/c9/12/c91248a386598ed6a1339d97fb6975aa.png",
+						"jumpUrl": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458"
+					}, {
+						"itemsId": 10016559,
+						"title": "万代 大魔头造型系列 机动战士高达  扭蛋 魔力赏",
+						"imgUrl": "//i0.hdslb.com/bfs/mall/mall/fd/05/fd05aeff3a73ddc1e7a32a6aced923a5.png",
+						"jumpUrl": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458"
+					}, {
+						"itemsId": 10016505,
+						"title": "万代 机动战士高达 EXCEED MODEL 扎古头7 扭蛋 魔力赏",
+						"imgUrl": "//i0.hdslb.com/bfs/mall/mall/63/e4/63e4df9bf83a790099e152ab703a69f5.png",
+						"jumpUrl": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458"
+					}, {
+						"itemsId": 10016143,
+						"title": "会员赏之进阶新人赏第三弹",
+						"imgUrl": "//i0.hdslb.com/bfs/mall/mall/58/5b/585b53b3846dbe3ccf21311016333617.png",
+						"jumpUrl": "https://mall.bilibili.com/ip.html??goFrom=na&noTitleBar=1&from=card_ip&ip=0_3000458"
+					}]
+				}, {
+					"id": "items_10000485",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "万代 MG 独角兽高达 OVA版 高达拼装模型 【机动战士高达UC】",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/0e/0f/0e0ff7025bb093546df06b0b0ae3b106.png", "https://i0.hdslb.com/bfs/mall/mall/29/d1/29d104550ea0f1e57c3237efdf37ff13.jpg", "https://i0.hdslb.com/bfs/mall/mall/04/08/04084e18d1dd1530ad5af42dc31fd164.jpg", "https://i0.hdslb.com/bfs/mall/mall/79/1e/791eb3f8872442d758a75bca9305e816.jpg", "https://i0.hdslb.com/bfs/mall/mall/17/ed/17edad0c84ee0213b4f68c606340c322.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10000485"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10000485%26goFrom%3Dna",
+					"price": [259.0, 279.0],
+					"priceDesc": ["259", "279"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"6\"}",
+					"itemsId": 10000485,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 5108,
+					"brief": "可能性之兽（本商品不包含支架）\n\n",
+					"subStatus": 12,
+					"ipRightName": "独角兽高达,机动战士高达UC,高达系列",
+					"ipRightId": 6224,
+					"brandName": "万代",
+					"brandId": 1
+				}, {
+					"id": "picture_article_1828988",
+					"type": "picture",
+					"tagName": "美图",
+					"title": "【手办美图】想要我的财宝吗？去吧，我把一切全都放在了那里！",
+					"summary": "1997年，一部漫画开始在jump上连载，一画就是二十多年。那是个新奇，辽阔的世界！描绘了海贼们精彩的冒险故事~ONE PIECE今年将迎来动画播出20周年啦！感谢尾田老师创造了这部给我们带来无数笑与泪的作品！MFC作者：evenstar88与将星亦能势均力敌的新形态！MFC作者：sailormars“能够原谅女人说谎的人，才是真正的男人！”MFC作者：evenstar88“我会连她的份也一起努力，成为世界第一的大剑豪！”MFC作者：joeeye“就算会没命，我也不能踢女人。”MFC作者：Gen",
+					"templateId": 8,
+					"imageUrls": ["https://i0.hdslb.com/bfs/article/aaa798efaa563af5c2923ff2a06f70160da03582.jpg"],
+					"jumpUrls": ["https://www.bilibili.com/read/cv1828988?from=biliMall"],
+					"jumpUrlForNa": "https://www.bilibili.com/read/cv1828988?from=biliMall&goFrom=na",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"\",\"Score\":\"42\",\"Index\":\"7\"}",
+					"articleId": "1828988",
+					"stats": {
+						"view": 81639,
+						"like": 2848,
+						"reply": 157
+					},
+					"isLike": false,
+					"commentJumpUrl": "https://www.bilibili.com/read/cv1828988#reply1?from=biliMall"
+				}, {
+					"id": "items_10016351",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "Myethos A-Z:[B] 手办",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/bd/3f/bd3fc8420393406e76c0e54b57966e9e.png"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10016351"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10016351%26goFrom%3Dna",
+					"price": [698.0, 698.0],
+					"priceDesc": ["698"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"8\"}",
+					"itemsId": 10016351,
+					"itemType": 1,
+					"ugcList": [],
+					"tags": {
+						"typeAndLimitTagName": "预售",
+						"marketingTagNames": null,
+						"itemTagNames": [],
+						"recommendTagNames": ["新品"],
+						"blindBoxHideTypeNames": null
+					},
+					"ugcSize": 0,
+					"like": 1142,
+					"brief": "是neco老师的A-Z:[B]！~",
+					"subStatus": 10,
+					"ipRightName": "A-Z:[B]​​,原创类手办,原创类手办",
+					"ipRightId": 0,
+					"brandName": "Myethos",
+					"brandId": 58,
+					"advState": {
+						"preSale": true,
+						"remain": 2446209,
+						"presaleStartOrderTime": 1573401600,
+						"state": null,
+						"depositType": null,
+						"deposit": "0",
+						"maxDeposit": "104.7",
+						"activityDeposit": null,
+						"maxActivityDeposit": null
+					}
+				}, {
+					"id": "items_10009578",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "万代 HG 巴耶力高达 拼装模型 【机动战士高达 铁血的奥尔芬斯】",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/1d/0b/1d0b91f899a2677f56a32e533ac0ee73.png", "https://i0.hdslb.com/bfs/mall/mall/40/f3/40f30622c75ab3285c81b27792eb5130.jpg", "https://i0.hdslb.com/bfs/mall/mall/34/63/34634f371328247d57e6093ec296f0a8.jpg", "https://i0.hdslb.com/bfs/mall/mall/d4/c2/d4c2fb97e582489d92bca5238c3c2233.jpg", "https://i0.hdslb.com/bfs/mall/mall/63/ec/63ec9bebcf3f9dd8d9f21154cc93267e.png"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10009578"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10009578%26goFrom%3Dna",
+					"price": [69.0, 69.0],
+					"priceDesc": ["69"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"9\"}",
+					"itemsId": 10009578,
+					"itemType": 0,
+					"ugcList": [],
+					"ugcSize": 0,
+					"like": 2272,
+					"brief": "主导者之魔（本商品不包含支架）\n",
+					"subStatus": 11,
+					"ipRightName": "巴耶力高达,机动战士高达 铁血的奥尔芬斯,高达系列",
+					"ipRightId": 7514,
+					"brandName": "万代",
+					"brandId": 1
+				}, {
+					"id": "items_10014056",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "世嘉 SSSS.GRIDMAN 新条茜 景品手办",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/dc/3d/dc3d0b9a308f7c99474c70649ce9a851.png", "https://i0.hdslb.com/bfs/mall/mall/93/27/9327cd4f57d12115fe830d2669277a79.jpg", "https://i0.hdslb.com/bfs/mall/mall/3c/64/3c64075d826b38325081b6413f2d7357.jpg", "https://i0.hdslb.com/bfs/mall/mall/fc/2f/fc2f1193b6b0b566f9bd2da3962629d2.jpg", "https://i0.hdslb.com/bfs/mall/mall/b7/79/b779f4d7a5618b57653d69a42c23b251.jpg"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10014056"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10014056%26goFrom%3Dna",
+					"price": [99.0, 99.0],
+					"priceDesc": ["99"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"10\"}",
+					"itemsId": 10014056,
+					"itemType": 1,
+					"ugcList": [],
+					"tags": {
+						"typeAndLimitTagName": "余量预售",
+						"marketingTagNames": null,
+						"itemTagNames": [],
+						"recommendTagNames": [],
+						"blindBoxHideTypeNames": null
+					},
+					"ugcSize": 0,
+					"like": 8331,
+					"brief": "这个世界上，没有人会不喜欢我。",
+					"subStatus": 11,
+					"tagPrefix": ["[余量预售]"],
+					"ipRightName": "新条茜,SSSS.GRIDMAN,SSSS.GRIDMAN",
+					"ipRightId": 6673,
+					"brandName": "世嘉",
+					"brandId": 27,
+					"advState": {
+						"preSale": true,
+						"remain": 25255809,
+						"presaleStartOrderTime": 1567420210,
+						"state": null,
+						"depositType": null,
+						"deposit": "0",
+						"maxDeposit": "14.85",
+						"activityDeposit": null,
+						"maxActivityDeposit": null
+					}
+				}, {
+					"id": "items_10016293",
+					"type": "mallitems",
+					"tagName": "商品",
+					"title": "BNTSH 万代 伍六七 手办",
+					"templateId": 4,
+					"imageUrls": ["https://i0.hdslb.com/bfs/mall/mall/d5/59/d559e678cc65e42cea88563047b07ad0.png"],
+					"jumpUrls": ["https://mall.bilibili.com/detail.html?from=card_item&loadingShow=1&noTitleBar=1#itemsId=10016293"],
+					"jumpUrlForNa": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fdetail.html%3Ffrom%3Dcard_item%26loadingShow%3D1%26noTitleBar%3D1%23itemsId%3D10016293%26goFrom%3Dna",
+					"price": [289.0, 289.0],
+					"priceDesc": ["289"],
+					"priceSymbol": "¥",
+					"hasWished": 0,
+					"logData": "{\"SourceID\":\"1005\",\"Score\":\"0\",\"Index\":\"11\"}",
+					"itemsId": 10016293,
+					"itemType": 1,
+					"ugcList": [],
+					"tags": {
+						"typeAndLimitTagName": "预售",
+						"marketingTagNames": null,
+						"itemTagNames": [],
+						"recommendTagNames": ["新品"],
+						"blindBoxHideTypeNames": null
+					},
+					"ugcSize": 0,
+					"like": 2696,
+					"brief": "要来理发吗？",
+					"subStatus": 12,
+					"ipRightName": "伍六七,伍六七,伍六七",
+					"ipRightId": 0,
+					"brandName": "BNTSH",
+					"brandId": 303,
+					"advState": {
+						"preSale": true,
+						"remain": 1063809,
+						"presaleStartOrderTime": 1572969600,
+						"state": null,
+						"depositType": null,
+						"deposit": "0",
+						"maxDeposit": "43.35",
+						"activityDeposit": null,
+						"maxActivityDeposit": null
+					}
+				}]
+			},
+			"entryList": [{
+				"imgUrl": "//i0.hdslb.com/bfs/mall/mall/2b/21/2b210e304077fa07a977189315838f2d.png",
+				"nightImgUrl": "//i0.hdslb.com/bfs/mall/mall/ce/cb/cecb131fe00482cc51324df4fec8b7db.png",
+				"jumpUrl": "https://mall.bilibili.com/cart.html?from=mall_home_cart&noTitleBar=1",
+				"title": ""
+			}, {
+				"imgUrl": "//i0.hdslb.com/bfs/mall/mall/00/a3/00a3a87bf3452ef7b0aba3515338d20d.png",
+				"nightImgUrl": "//i0.hdslb.com/bfs/mall/mall/61/c1/61c1bcd9fea32ffe2702f9395ef9d055.png",
+				"jumpUrl": "bilibili://mall/mine?from=mall_home_mine",
+				"title": ""
+			}],
+			"timestamp": 1573633791136,
+			"searchUrl": {
+				"title": "手办",
+				"titleList": ["手办"],
+				"urlTicketSearch": "https://show.bilibili.com/m/platform/search.html?searchValue=param&noTitleBar=1",
+				"urlMallSearch": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Flist.html%3FgoFrom%3Dna%26noTitleBar%3D1%26keyword%3Dparam",
+				"urlMallAndTicketSearch": "bilibili://mall/web?url=https%3A%2F%2Fmall.bilibili.com%2Fnewlist.html%3FgoFrom%3Dna%26noTitleBar%3D1%26from%3Dmall_home_search%26keyword%3Dparam",
+				"isSearchV2": 1,
+				"timestamp": null
+			},
+			"videoVO": {
+				"videoName": null,
+				"videoTime": null,
+				"jumpUrl": null,
+				"intervalTime": null,
+				"configId": null,
+				"modName": null,
+				"departmentName": null,
+				"videoWidth": null,
+				"videoHeight": null,
+				"startTime": null,
+				"endTime": null,
+				"suffix": null,
+				"imgUrl": null
+			},
+			"marketingList": [],
+			"floating": {
+				"id": 592,
+				"imageUrl": "//i0.hdslb.com/bfs/mall/mall/5f/3e/5f3ea4d3f0b0239507cdd5620ebf73f4.png",
+				"jumpUrl": "https://mall.bilibili.com/detail.html?noTitleBar=1&msource=mall_fc#itemsId=10016293"
+			}
+		}
+	},
+	"errtag": 0
+}
